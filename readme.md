@@ -1,4 +1,5 @@
-![Python](https://img.shields.io/badge/Python-3.10+-black?style=for-the-badge&logo=python&logoColor=gold)
+                                                                   ![Python](https://img.shields.io/badge/Python-OpenCV%20%7C%20MediaPipe-1f2937?style=for-the-badge&logo=python&logoColor=white)
+
 
 #  Doctor Strange Magic Hand Effect using Python
 
