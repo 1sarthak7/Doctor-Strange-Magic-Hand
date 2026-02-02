@@ -1,6 +1,6 @@
 #  Doctor Strange Magic Hand Effect using Python
 
-A real-time **computer vision project** that uses a webcam to detect hands and render **Doctor Strange–style magical effects** on the user’s palms. Built using **OpenCV** and **MediaPipe**, this project demonstrates gesture-based AR overlays with smooth tracking and animated visual effects.
+A real-time **computer vision project** that uses a webcam to detect hands and render **Doctor Strange–style magical effects** on the user’s palms. Built using **OpenCV** and **MediaPipe**, this project demonstrates gesture based AR overlays with smooth tracking and animated visual effects.
 
 ---
 
@@ -82,6 +82,6 @@ python main.py
 ##  Author
 
 **Sarthak Bhopale**
-Aspiring Engineer | Computer Vision & Creative Dev
+Student at MIT
 
 ---
