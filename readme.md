@@ -1,10 +1,8 @@
-![Python](https://img.shields.io/badge/Python-OpenCV%20%7C%20MediaPipe-1f2937?style=for-the-badge&logo=python&logoColor=white)
-
-
-
 #  Doctor Strange Magic Hand Effect using Python
 
 A real-time **computer vision project** that uses a webcam to detect hands and render **Doctor Strange–style magical effects** on the user’s palms. Built using **OpenCV** and **MediaPipe**, this project demonstrates gesture based AR overlays with smooth tracking and animated visual effects.
+
+![Python](https://img.shields.io/badge/Python-OpenCV%20%7C%20MediaPipe-1f2937?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
